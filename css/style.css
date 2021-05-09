@@ -2926,6 +2926,7 @@ ol {
 		margin-bottom: 35px;
 	}
 	.clients {
+		text-align: center;
 		padding-bottom: 90px;
 	}
 	.clients a {
@@ -2936,6 +2937,9 @@ ol {
 	}
 	.testimonial__carousel.owl-carousel .owl-nav button.owl-next {
 		right: 0;
+	}
+	.services.services-page{
+		text-align: center;
 	}
 }
 
