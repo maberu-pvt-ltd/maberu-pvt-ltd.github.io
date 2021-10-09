@@ -1335,7 +1335,7 @@ ol {
 	margin-bottom: 30px;
 }
 
-.footer__widget h6 {
+.footer__widget h5 {
 	color: #ffffff;
 	font-weight: 600;
 	font-family: "Poppins", sans-serif;
@@ -1357,7 +1357,7 @@ ol {
 	margin-bottom: 30px;
 }
 
-.footer__address h6 {
+.footer__address h5 {
 	color: #ffffff;
 	font-weight: 600;
 	font-family: "Poppins", sans-serif;
